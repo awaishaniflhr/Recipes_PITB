@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".HomeFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
@@ -56,9 +56,9 @@
                             android:layout_gravity="center"
                             android:layout_marginTop="15dp"
                             android:text="@string/pot_stickers_n_chinese_dumplings"
-                            android:textColor="@color/white"
+                            android:textColor="@color/black"
                             android:textSize="16sp"
-                            android:textStyle="bold" />
+                            android:textStyle="normal" />
 
                     </RelativeLayout>
 

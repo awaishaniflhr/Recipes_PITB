@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Recipes PITB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discover">Discover</string>
+    <string name="pot_stickers_n_chinese_dumplings">Pot Stickers \n(Chinese Dumplings)</string>
 </resources>
